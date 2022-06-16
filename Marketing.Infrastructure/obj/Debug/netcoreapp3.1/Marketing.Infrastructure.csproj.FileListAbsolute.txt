@@ -1,0 +1,47 @@
+C:\Users\Nikoloz\Desktop\PASHA Work_Folder\MarketingAPI\Marketing.Infrastructure\bin\Debug\netcoreapp3.1\Marketing.Infrastructure.deps.json
+C:\Users\Nikoloz\Desktop\PASHA Work_Folder\MarketingAPI\Marketing.Infrastructure\bin\Debug\netcoreapp3.1\Marketing.Infrastructure.runtimeconfig.json
+C:\Users\Nikoloz\Desktop\PASHA Work_Folder\MarketingAPI\Marketing.Infrastructure\bin\Debug\netcoreapp3.1\Marketing.Infrastructure.runtimeconfig.dev.json
+C:\Users\Nikoloz\Desktop\PASHA Work_Folder\MarketingAPI\Marketing.Infrastructure\bin\Debug\netcoreapp3.1\Marketing.Infrastructure.dll
+C:\Users\Nikoloz\Desktop\PASHA Work_Folder\MarketingAPI\Marketing.Infrastructure\bin\Debug\netcoreapp3.1\Marketing.Infrastructure.pdb
+C:\Users\Nikoloz\Desktop\PASHA Work_Folder\MarketingAPI\Marketing.Infrastructure\bin\Debug\netcoreapp3.1\Marketing.Domain.dll
+C:\Users\Nikoloz\Desktop\PASHA Work_Folder\MarketingAPI\Marketing.Infrastructure\bin\Debug\netcoreapp3.1\Marketing.Domain.pdb
+C:\Users\Nikoloz\Desktop\PASHA Work_Folder\MarketingAPI\Marketing.Infrastructure\obj\Debug\netcoreapp3.1\Marketing.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Nikoloz\Desktop\PASHA Work_Folder\MarketingAPI\Marketing.Infrastructure\obj\Debug\netcoreapp3.1\Marketing.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikoloz\Desktop\PASHA Work_Folder\MarketingAPI\Marketing.Infrastructure\obj\Debug\netcoreapp3.1\Marketing.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Nikoloz\Desktop\PASHA Work_Folder\MarketingAPI\Marketing.Infrastructure\obj\Debug\netcoreapp3.1\Marketing.Infrastructure.AssemblyInfo.cs
+C:\Users\Nikoloz\Desktop\PASHA Work_Folder\MarketingAPI\Marketing.Infrastructure\obj\Debug\netcoreapp3.1\Marketing.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Nikoloz\Desktop\PASHA Work_Folder\MarketingAPI\Marketing.Infrastructure\obj\Debug\netcoreapp3.1\Marketing.Infrastructure.dll
+C:\Users\Nikoloz\Desktop\PASHA Work_Folder\MarketingAPI\Marketing.Infrastructure\obj\Debug\netcoreapp3.1\Marketing.Infrastructure.pdb
+C:\Users\Nikoloz\Desktop\PASHA Work_Folder\MarketingAPI\Marketing.Infrastructure\obj\Debug\netcoreapp3.1\Marketing.Infrastructure.genruntimeconfig.cache
+C:\Users\Nikoloz\Desktop\PASHA Work_Folder\MarketingAPI\Marketing.Infrastructure\obj\Debug\netcoreapp3.1\Marketing.Infrastructure.csproj.CopyComplete
+C:\Users\Nikoloz\Desktop\FINAL WORK\MarketingAPI\MarketingAPI\Marketing.Infrastructure\bin\Debug\netcoreapp3.1\Marketing.Infrastructure.deps.json
+C:\Users\Nikoloz\Desktop\FINAL WORK\MarketingAPI\MarketingAPI\Marketing.Infrastructure\bin\Debug\netcoreapp3.1\Marketing.Infrastructure.runtimeconfig.json
+C:\Users\Nikoloz\Desktop\FINAL WORK\MarketingAPI\MarketingAPI\Marketing.Infrastructure\bin\Debug\netcoreapp3.1\Marketing.Infrastructure.runtimeconfig.dev.json
+C:\Users\Nikoloz\Desktop\FINAL WORK\MarketingAPI\MarketingAPI\Marketing.Infrastructure\bin\Debug\netcoreapp3.1\Marketing.Infrastructure.dll
+C:\Users\Nikoloz\Desktop\FINAL WORK\MarketingAPI\MarketingAPI\Marketing.Infrastructure\bin\Debug\netcoreapp3.1\Marketing.Infrastructure.pdb
+C:\Users\Nikoloz\Desktop\FINAL WORK\MarketingAPI\MarketingAPI\Marketing.Infrastructure\bin\Debug\netcoreapp3.1\Marketing.Domain.dll
+C:\Users\Nikoloz\Desktop\FINAL WORK\MarketingAPI\MarketingAPI\Marketing.Infrastructure\bin\Debug\netcoreapp3.1\Marketing.Domain.pdb
+C:\Users\Nikoloz\Desktop\FINAL WORK\MarketingAPI\MarketingAPI\Marketing.Infrastructure\obj\Debug\netcoreapp3.1\Marketing.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Nikoloz\Desktop\FINAL WORK\MarketingAPI\MarketingAPI\Marketing.Infrastructure\obj\Debug\netcoreapp3.1\Marketing.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikoloz\Desktop\FINAL WORK\MarketingAPI\MarketingAPI\Marketing.Infrastructure\obj\Debug\netcoreapp3.1\Marketing.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Nikoloz\Desktop\FINAL WORK\MarketingAPI\MarketingAPI\Marketing.Infrastructure\obj\Debug\netcoreapp3.1\Marketing.Infrastructure.AssemblyInfo.cs
+C:\Users\Nikoloz\Desktop\FINAL WORK\MarketingAPI\MarketingAPI\Marketing.Infrastructure\obj\Debug\netcoreapp3.1\Marketing.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Nikoloz\Desktop\FINAL WORK\MarketingAPI\MarketingAPI\Marketing.Infrastructure\obj\Debug\netcoreapp3.1\Marketing.Infrastructure.dll
+C:\Users\Nikoloz\Desktop\FINAL WORK\MarketingAPI\MarketingAPI\Marketing.Infrastructure\obj\Debug\netcoreapp3.1\Marketing.Infrastructure.pdb
+C:\Users\Nikoloz\Desktop\FINAL WORK\MarketingAPI\MarketingAPI\Marketing.Infrastructure\obj\Debug\netcoreapp3.1\Marketing.Infrastructure.genruntimeconfig.cache
+C:\Users\Nikoloz\Desktop\FINAL WORK\MarketingAPI\MarketingAPI\Marketing.Infrastructure\obj\Debug\netcoreapp3.1\Marketing.Infrastructure.csproj.CopyComplete
+C:\Users\Nikoloz\Desktop\Githu\MarketingAPI\MarketingAPI\Marketing.Infrastructure\bin\Debug\netcoreapp3.1\Marketing.Infrastructure.deps.json
+C:\Users\Nikoloz\Desktop\Githu\MarketingAPI\MarketingAPI\Marketing.Infrastructure\bin\Debug\netcoreapp3.1\Marketing.Infrastructure.runtimeconfig.json
+C:\Users\Nikoloz\Desktop\Githu\MarketingAPI\MarketingAPI\Marketing.Infrastructure\bin\Debug\netcoreapp3.1\Marketing.Infrastructure.runtimeconfig.dev.json
+C:\Users\Nikoloz\Desktop\Githu\MarketingAPI\MarketingAPI\Marketing.Infrastructure\bin\Debug\netcoreapp3.1\Marketing.Infrastructure.dll
+C:\Users\Nikoloz\Desktop\Githu\MarketingAPI\MarketingAPI\Marketing.Infrastructure\bin\Debug\netcoreapp3.1\Marketing.Infrastructure.pdb
+C:\Users\Nikoloz\Desktop\Githu\MarketingAPI\MarketingAPI\Marketing.Infrastructure\bin\Debug\netcoreapp3.1\Marketing.Domain.dll
+C:\Users\Nikoloz\Desktop\Githu\MarketingAPI\MarketingAPI\Marketing.Infrastructure\bin\Debug\netcoreapp3.1\Marketing.Domain.pdb
+C:\Users\Nikoloz\Desktop\Githu\MarketingAPI\MarketingAPI\Marketing.Infrastructure\obj\Debug\netcoreapp3.1\Marketing.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Nikoloz\Desktop\Githu\MarketingAPI\MarketingAPI\Marketing.Infrastructure\obj\Debug\netcoreapp3.1\Marketing.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikoloz\Desktop\Githu\MarketingAPI\MarketingAPI\Marketing.Infrastructure\obj\Debug\netcoreapp3.1\Marketing.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Nikoloz\Desktop\Githu\MarketingAPI\MarketingAPI\Marketing.Infrastructure\obj\Debug\netcoreapp3.1\Marketing.Infrastructure.AssemblyInfo.cs
+C:\Users\Nikoloz\Desktop\Githu\MarketingAPI\MarketingAPI\Marketing.Infrastructure\obj\Debug\netcoreapp3.1\Marketing.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Nikoloz\Desktop\Githu\MarketingAPI\MarketingAPI\Marketing.Infrastructure\obj\Debug\netcoreapp3.1\Marketing.Infrastructure.dll
+C:\Users\Nikoloz\Desktop\Githu\MarketingAPI\MarketingAPI\Marketing.Infrastructure\obj\Debug\netcoreapp3.1\Marketing.Infrastructure.pdb
+C:\Users\Nikoloz\Desktop\Githu\MarketingAPI\MarketingAPI\Marketing.Infrastructure\obj\Debug\netcoreapp3.1\Marketing.Infrastructure.genruntimeconfig.cache
